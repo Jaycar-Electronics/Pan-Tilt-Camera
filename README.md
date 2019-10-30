@@ -18,6 +18,7 @@ Keep an eye out while you're out for the holidays! Use this pan-tilt camera to m
     - [Configuring the system (and fixing the keyboard)](#Configuring-the-system-and-fixing-the-keyboard)
     - [Downloading the project](#Downloading-the-project)
     - [Assembly of the Pan Tilt Bracket kit](#Assembly-of-the-Pan-Tilt-Bracket-kit)
+    - [Pinout connection](#Pinout-connection)
   - [Use](#Use)
   - [Future Improvements](#Future-Improvements)
   - [Further Reading](#Further-Reading)
@@ -219,6 +220,12 @@ Once that has been done, you can use [hot glue](https://jaycar.com.au/p/TH2050),
 ![hero shot](images/hero.jpg)
 
 _Also note_ The pinout in the picture above is incorrect, you need to connect the servos to pin 16 and 18.
+
+### Pinout connection
+
+Connect the camera into the camera connector on the rasberry pi, then attach the gpio shield ontop of the pi; We made the camera cable come out the back, near the ethernet port, so that there's more room for the pan tilt bracket to move around with the camera attached.
+
+Connect the servos so that the red wire is connected to power, brown wire is connected to ground, and the yello wire is connected to the data pin, on the pinout table as below:
 
 | Servo                               | Pin |
 | ----------------------------------- | --- |
