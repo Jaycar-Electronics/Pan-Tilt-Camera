@@ -215,7 +215,7 @@ Once that has been done, you can then bend open the two halves from before and s
 
 Make sure that the servos are at 90 degrees again, and push in the final servo arm piece into the space as shown on the picture. You will have to snip it down to size so that it can fit.
 
-Once that has been done, you can use [hot glue](https://jaycar.com.au/p/TH2050), [double sided tape](https://jaycar.com.au/p/NM2821), or [glue-strips](https://jaycar.com.au/p/NA1522) to mount the camera onto the plate; Make sure that the cable has full range of movement, as shown in the picture below. We bent the camera cable to come from out the
+Once that has been done, you can use [hot glue](https://jaycar.com.au/p/TH2050), [double sided tape](https://jaycar.com.au/p/NM2821), or [glue-strips](https://jaycar.com.au/p/NA1522) to mount the camera onto the plate; Make sure that the cable has full range of movement, as shown in the picture below. We bent the camera cable to come from out the back of the pi, near the ethernet port.
 
 ![hero shot](images/hero.jpg)
 
